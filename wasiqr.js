@@ -60,17 +60,17 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃QUEEN_ANITA_V2 SESSION IS 
+┃Kplus712 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = 𖥘 Kplus712 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://chat.whatsapp.com/LEbHQarR6vvDbTyhYCZLS2
+❷ || WhattsApp Channel = Message Kplus712 on WhatsApp. https://wa.me/255622266932
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support Channel
-Wanna talk to me?👉https://chat.whatsapp.com/LEbHQarR6vvDbTyhYCZLS2 👈
+Please join our winning cycle PAY AFTER WIN
+Wanna become a member? https://chat.whatsapp.com/LEbHQarR6vvDbTyhYCZLS2👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 Kplus712*
 _____________________________________
