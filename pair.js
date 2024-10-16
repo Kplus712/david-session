@@ -58,16 +58,16 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃QUEEN_ANITA_V2 SESSION IS 
+┃Kplus712 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 DAVID CYRIL 𖥘
+❶ || Creator = 𖥘 Kplus712 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://chat.whatsapp.com/LEbHQarR6vvDbTyhYCZLS2
+❷ || WhattsApp contact = Message Kplus712 on WhatsApp. https://wa.me/255622266932
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support Channel
+Please join pay after win 🏆 
 Wanna talk to me?👉 https://chat.whatsapp.com/LEbHQarR6vvDbTyhYCZLS2 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 kplus712*
