@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃Kplus712 SESSION IS 
+┃KPLUS712 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
@@ -67,7 +67,7 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhattsApp contact = Message Kplus712 on WhatsApp. https://wa.me/255622266932
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please join pay after win 🏆 
+Please join pay after win ⚽️ 🏆 
 Wanna talk to me?👉 https://chat.whatsapp.com/LEbHQarR6vvDbTyhYCZLS2 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 kplus712*
